@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="error_message">An error has occurred. Please try again</string>
+    <string name="load_popular_movies">Load Popular Movies</string>
+    <string name="load_top_rated">Load Top Rated Movies</string>
+    <string name="favorite_btn">MARK AS FAVORITE</string>
+    <string name="load_favorite_movies">Load Favorite Movies</string>
+    <string name="filter_movies_flag">Filter Movies</string>
+    <string name="reviews_label">Reviews</string>
+    <string name="trailers_label">Trailers:</string>
+</resources>
